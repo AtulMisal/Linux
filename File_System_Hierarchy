@@ -1,0 +1,22 @@
+Hi Connections,
+   Here I wrote some inportant File System Hierarchy in Linux which will help you to understand the file system.
+   
+   1. /        --- It indicates root directory. When you give ls command it will show some directories as -
+   
+   2. /home    --- Home directory for other user's. User's created by us.
+   
+   3. /root    --- It is home directory for root user
+   
+   4. /boot    --- It contains bootable files for linux.
+   
+   5. /etc     --- It contains all configuration files.
+   
+   6. /usr     --- By default software are installed in this directory
+   
+   7. /bin     --- It contains command used by all user'show
+   
+   8. /sbin    --- It contains command used by only root user
+   
+   9. /opt     --- Optional appication software package, any software package can be stored here.
+   
+   10. /dev    --- Essential device files can be stored here.
